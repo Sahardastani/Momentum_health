@@ -6,8 +6,8 @@ common:
   device: "cuda"
   num_workers: 4
   batch_size: 128
-  train_epochs: 1
-  test_epochs: 1
+  train_epochs: 100
+  test_epochs: 20
   seed: 16
 
 split: 'train'

@@ -32,8 +32,8 @@ def run_training(cfg: DictConfig) -> None:
 
     transform = transforms.Compose([transforms.ToTensor(), transforms.Normalize((config.DATA.mean,), (config.DATA.std,))])
 
-    train_dataset = datasets.FashionMNIST('./data', download=True, train=True, transform=transform)
-    val_dataset = datasets.FashionMNIST('./data', download=True, train=False, transform=transform)
+    train_dataset = datasets.FashionMNIST('../data/FMNIST', download=True, train=True, transform=transform)
+    val_dataset = datasets.FashionMNIST('../data/FMNIST', download=True, train=False, transform=transform)
 
     train_data = FMNIST(cfg=config, phase='train', img=train_dataset)
     train_loader = DataLoader(train_data, batch_size = cfg.common.batch_size, drop_last=True)

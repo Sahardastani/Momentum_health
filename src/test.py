@@ -30,8 +30,8 @@ def run_testing(cfg: DictConfig) -> None:
 
     transform = transforms.Compose([transforms.ToTensor(), transforms.Normalize((config.DATA.mean,), (config.DATA.std,))])
 
-    train_dataset = datasets.FashionMNIST('./data', download=True, train=True, transform=transform)
-    val_dataset = datasets.FashionMNIST('./data', download=True, train=False, transform=transform)
+    train_dataset = datasets.FashionMNIST('../data/FMNIST', download=True, train=True, transform=transform)
+    val_dataset = datasets.FashionMNIST('../data/FMNIST', download=True, train=False, transform=transform)
 
     train_data = Downstream_FMNIST(cfg=config, phase='train', img=train_dataset, num_classes=config.MODEL.num_classes)
     train_loader = DataLoader(train_data,batch_size = cfg.common.batch_size, drop_last = True)
@@ -159,12 +159,12 @@ def run_testing(cfg: DictConfig) -> None:
     plt.plot([t for t in tr_ep_acc])
     plt.plot([t for t in val_ep_acc])
     plt.legend(['train','valid'])
-    plt.savefig(f'{config.DATA.current_dir}/acc.png')
+    plt.savefig(f'{config.DATA.current_dir}/plots/acc.png')
 
     plt.plot(tr_ep_loss)
     plt.plot(val_ep_loss)
     plt.legend(['train','valid'])
-    plt.savefig(f'{config.DATA.current_dir}/loss.png')
+    plt.savefig(f'{config.DATA.current_dir}/plots/loss.png')
 
 
 if __name__ == "__main__":
