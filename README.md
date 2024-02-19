@@ -1,4 +1,4 @@
-# Momentum_health
+# SSL classification on Fashion MNIST
 
 * **Step 1:** Clone repo
     ```

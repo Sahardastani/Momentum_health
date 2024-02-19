@@ -5,7 +5,6 @@ mlruns
 data/
 src/outputs/
 save_models/
-plots/
 
 
 # Byte-compiled / optimized / DLL files

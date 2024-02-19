@@ -1,0 +1,1702 @@
+Adjusting learning rate of group 0 to 2.0000e-02.
+Epoch 00000: adjusting learning rate of group 0 to 2.0000e-01.
+Epoch [0/100]	
+Step [0/468]	 Loss: 4.84867
+Step [50/468]	 Loss: 3.75467
+Step [100/468]	 Loss: 3.66833
+Step [150/468]	 Loss: 3.64335
+Step [200/468]	 Loss: 3.6302
+Step [250/468]	 Loss: 3.61239
+Step [300/468]	 Loss: 3.61381
+Step [350/468]	 Loss: 3.61461
+Step [400/468]	 Loss: 3.60168
+Step [450/468]	 Loss: 3.59784
+Adjusting learning rate of group 0 to 4.0000e-02.
+Step [0/78]	 Loss: 3.62033
+Step [50/78]	 Loss: 3.62669
+Epoch [0/100]	 Training Loss: 3.681000682023855	 lr: 0.04
+Epoch [0/100]	 Validation Loss: 3.6258331567813187	 lr: 0.04
+Epoch [0/100]	 Time Taken: 1.551719574133555 minutes
+Epoch [1/100]	
+Step [0/468]	 Loss: 3.60235
+Step [50/468]	 Loss: 3.5981
+Step [100/468]	 Loss: 3.60137
+Step [150/468]	 Loss: 3.59611
+Step [200/468]	 Loss: 3.59475
+Step [250/468]	 Loss: 3.59076
+Step [300/468]	 Loss: 3.59339
+Step [350/468]	 Loss: 3.59517
+Step [400/468]	 Loss: 3.5926
+Step [450/468]	 Loss: 3.59261
+Adjusting learning rate of group 0 to 6.0000e-02.
+Step [0/78]	 Loss: 3.61252
+Step [50/78]	 Loss: 3.61279
+Epoch [1/100]	 Training Loss: 3.5946913157772813	 lr: 0.06
+Epoch [1/100]	 Validation Loss: 3.6167557514630833	 lr: 0.06
+Epoch [1/100]	 Time Taken: 1.5547891855239868 minutes
+Epoch [2/100]	
+Step [0/468]	 Loss: 3.59494
+Step [50/468]	 Loss: 3.59018
+Step [100/468]	 Loss: 3.59323
+Step [150/468]	 Loss: 3.58896
+Step [200/468]	 Loss: 3.58953
+Step [250/468]	 Loss: 3.59126
+Step [300/468]	 Loss: 3.58601
+Step [350/468]	 Loss: 3.58826
+Step [400/468]	 Loss: 3.58933
+Step [450/468]	 Loss: 3.58284
+Adjusting learning rate of group 0 to 8.0000e-02.
+Step [0/78]	 Loss: 3.60671
+Step [50/78]	 Loss: 3.60724
+Epoch [2/100]	 Training Loss: 3.589906117345533	 lr: 0.08
+Epoch [2/100]	 Validation Loss: 3.6107447880965013	 lr: 0.08
+Epoch [2/100]	 Time Taken: 1.5595534920692444 minutes
+Epoch [3/100]	
+Step [0/468]	 Loss: 3.5878
+Step [50/468]	 Loss: 3.58408
+Step [100/468]	 Loss: 3.58811
+Step [150/468]	 Loss: 3.5863
+Step [200/468]	 Loss: 3.58729
+Step [250/468]	 Loss: 3.58298
+Step [300/468]	 Loss: 3.58388
+Step [350/468]	 Loss: 3.58511
+Step [400/468]	 Loss: 3.58548
+Step [450/468]	 Loss: 3.57994
+Adjusting learning rate of group 0 to 1.0000e-01.
+Step [0/78]	 Loss: 3.60433
+Step [50/78]	 Loss: 3.60299
+Epoch [3/100]	 Training Loss: 3.5859420956709447	 lr: 0.1
+Epoch [3/100]	 Validation Loss: 3.607080924205291	 lr: 0.1
+Epoch [3/100]	 Time Taken: 1.5648880799611409 minutes
+Epoch [4/100]	
+Step [0/468]	 Loss: 3.58402
+Step [50/468]	 Loss: 3.58484
+Step [100/468]	 Loss: 3.58667
+Step [150/468]	 Loss: 3.58657
+Step [200/468]	 Loss: 3.58341
+Step [250/468]	 Loss: 3.57995
+Step [300/468]	 Loss: 3.5796
+Step [350/468]	 Loss: 3.58499
+Step [400/468]	 Loss: 3.58686
+Step [450/468]	 Loss: 3.57715
+Adjusting learning rate of group 0 to 1.2000e-01.
+Step [0/78]	 Loss: 3.60084
+Step [50/78]	 Loss: 3.59951
+Epoch [4/100]	 Training Loss: 3.582698701793312	 lr: 0.12
+Epoch [4/100]	 Validation Loss: 3.604869925058805	 lr: 0.12
+Epoch [4/100]	 Time Taken: 1.5611138224601746 minutes
+Epoch [5/100]	
+Step [0/468]	 Loss: 3.5822
+Step [50/468]	 Loss: 3.58096
+Step [100/468]	 Loss: 3.58414
+Step [150/468]	 Loss: 3.57957
+Step [200/468]	 Loss: 3.58005
+Step [250/468]	 Loss: 3.57992
+Step [300/468]	 Loss: 3.57764
+Step [350/468]	 Loss: 3.58041
+Step [400/468]	 Loss: 3.57905
+Step [450/468]	 Loss: 3.57749
+Adjusting learning rate of group 0 to 1.4000e-01.
+Step [0/78]	 Loss: 3.59892
+Step [50/78]	 Loss: 3.59941
+Epoch [5/100]	 Training Loss: 3.5804813529691124	 lr: 0.14
+Epoch [5/100]	 Validation Loss: 3.604060646815178	 lr: 0.14
+Epoch [5/100]	 Time Taken: 1.561823030312856 minutes
+Epoch [6/100]	
+Step [0/468]	 Loss: 3.58143
+Step [50/468]	 Loss: 3.57891
+Step [100/468]	 Loss: 3.58207
+Step [150/468]	 Loss: 3.58096
+Step [200/468]	 Loss: 3.57885
+Step [250/468]	 Loss: 3.57602
+Step [300/468]	 Loss: 3.57613
+Step [350/468]	 Loss: 3.58013
+Step [400/468]	 Loss: 3.57947
+Step [450/468]	 Loss: 3.57496
+Adjusting learning rate of group 0 to 1.6000e-01.
+Step [0/78]	 Loss: 3.59884
+Step [50/78]	 Loss: 3.59949
+Epoch [6/100]	 Training Loss: 3.578353116654942	 lr: 0.16
+Epoch [6/100]	 Validation Loss: 3.60357228303567	 lr: 0.16
+Epoch [6/100]	 Time Taken: 1.560649307568868 minutes
+Epoch [7/100]	
+Step [0/468]	 Loss: 3.57772
+Step [50/468]	 Loss: 3.57886
+Step [100/468]	 Loss: 3.5818
+Step [150/468]	 Loss: 3.57596
+Step [200/468]	 Loss: 3.57662
+Step [250/468]	 Loss: 3.57542
+Step [300/468]	 Loss: 3.57565
+Step [350/468]	 Loss: 3.57681
+Step [400/468]	 Loss: 3.58042
+Step [450/468]	 Loss: 3.57185
+Adjusting learning rate of group 0 to 1.8000e-01.
+Step [0/78]	 Loss: 3.59795
+Step [50/78]	 Loss: 3.5983
+Epoch [7/100]	 Training Loss: 3.5769223030815778	 lr: 0.18
+Epoch [7/100]	 Validation Loss: 3.6024775749597793	 lr: 0.18
+Epoch [7/100]	 Time Taken: 1.5615418593088786 minutes
+Epoch [8/100]	
+Step [0/468]	 Loss: 3.57569
+Step [50/468]	 Loss: 3.57596
+Step [100/468]	 Loss: 3.57743
+Step [150/468]	 Loss: 3.57695
+Step [200/468]	 Loss: 3.57282
+Step [250/468]	 Loss: 3.57296
+Step [300/468]	 Loss: 3.57479
+Step [350/468]	 Loss: 3.57689
+Step [400/468]	 Loss: 3.57643
+Step [450/468]	 Loss: 3.57321
+Adjusting learning rate of group 0 to 2.0000e-01.
+Step [0/78]	 Loss: 3.59949
+Step [50/78]	 Loss: 3.59883
+Epoch [8/100]	 Training Loss: 3.57589939618722	 lr: 0.2
+Epoch [8/100]	 Validation Loss: 3.6040000273631168	 lr: 0.2
+Epoch [8/100]	 Time Taken: 1.5602744102478028 minutes
+Epoch [9/100]	
+Step [0/468]	 Loss: 3.57581
+Step [50/468]	 Loss: 3.57355
+Step [100/468]	 Loss: 3.5799
+Step [150/468]	 Loss: 3.57557
+Step [200/468]	 Loss: 3.57371
+Step [250/468]	 Loss: 3.57306
+Step [300/468]	 Loss: 3.57252
+Step [350/468]	 Loss: 3.57365
+Step [400/468]	 Loss: 3.57602
+Step [450/468]	 Loss: 3.57109
+Adjusting learning rate of group 0 to 2.2000e-01.
+Step [0/78]	 Loss: 3.59833
+Step [50/78]	 Loss: 3.5957
+Epoch [9/100]	 Training Loss: 3.5749362340340247	 lr: 0.22
+Epoch [9/100]	 Validation Loss: 3.6021354595820108	 lr: 0.22
+Epoch [9/100]	 Time Taken: 1.5613800168037415 minutes
+Epoch [10/100]	
+Step [0/468]	 Loss: 3.57589
+Step [50/468]	 Loss: 3.57513
+Step [100/468]	 Loss: 3.5764
+Step [150/468]	 Loss: 3.5748
+Step [200/468]	 Loss: 3.57265
+Step [250/468]	 Loss: 3.572
+Step [300/468]	 Loss: 3.57502
+Step [350/468]	 Loss: 3.57539
+Step [400/468]	 Loss: 3.57542
+Step [450/468]	 Loss: 3.57006
+Epoch 00001: adjusting learning rate of group 0 to 2.0000e-01.
+Step [0/78]	 Loss: 3.60124
+Step [50/78]	 Loss: 3.60139
+Epoch [10/100]	 Training Loss: 3.574141358717894	 lr: 0.2
+Epoch [10/100]	 Validation Loss: 3.6046875440157375	 lr: 0.2
+Epoch [10/100]	 Time Taken: 1.5608624498049417 minutes
+Epoch [11/100]	
+Step [0/468]	 Loss: 3.57279
+Step [50/468]	 Loss: 3.57133
+Step [100/468]	 Loss: 3.57641
+Step [150/468]	 Loss: 3.57355
+Step [200/468]	 Loss: 3.57201
+Step [250/468]	 Loss: 3.57229
+Step [300/468]	 Loss: 3.57194
+Step [350/468]	 Loss: 3.57387
+Step [400/468]	 Loss: 3.57503
+Step [450/468]	 Loss: 3.56867
+Epoch 00002: adjusting learning rate of group 0 to 1.9999e-01.
+Step [0/78]	 Loss: 3.60009
+Step [50/78]	 Loss: 3.59984
+Epoch [11/100]	 Training Loss: 3.5729539649099364	 lr: 0.19999
+Epoch [11/100]	 Validation Loss: 3.6040617563785653	 lr: 0.19999
+Epoch [11/100]	 Time Taken: 1.5591908931732177 minutes
+Epoch [12/100]	
+Step [0/468]	 Loss: 3.57193
+Step [50/468]	 Loss: 3.5708
+Step [100/468]	 Loss: 3.57344
+Step [150/468]	 Loss: 3.57099
+Step [200/468]	 Loss: 3.57175
+Step [250/468]	 Loss: 3.57022
+Step [300/468]	 Loss: 3.57143
+Step [350/468]	 Loss: 3.57417
+Step [400/468]	 Loss: 3.57419
+Step [450/468]	 Loss: 3.56735
+Epoch 00003: adjusting learning rate of group 0 to 1.9999e-01.
+Step [0/78]	 Loss: 3.60087
+Step [50/78]	 Loss: 3.59907
+Epoch [12/100]	 Training Loss: 3.5720046580347242	 lr: 0.19999
+Epoch [12/100]	 Validation Loss: 3.6038031027867246	 lr: 0.19999
+Epoch [12/100]	 Time Taken: 1.5568890889485678 minutes
+Epoch [13/100]	
+Step [0/468]	 Loss: 3.57121
+Step [50/468]	 Loss: 3.57072
+Step [100/468]	 Loss: 3.57299
+Step [150/468]	 Loss: 3.57164
+Step [200/468]	 Loss: 3.57072
+Step [250/468]	 Loss: 3.57121
+Step [300/468]	 Loss: 3.56967
+Step [350/468]	 Loss: 3.57145
+Step [400/468]	 Loss: 3.5762
+Step [450/468]	 Loss: 3.56805
+Epoch 00004: adjusting learning rate of group 0 to 1.9998e-01.
+Step [0/78]	 Loss: 3.59921
+Step [50/78]	 Loss: 3.59963
+Epoch [13/100]	 Training Loss: 3.5711851537737074	 lr: 0.19998
+Epoch [13/100]	 Validation Loss: 3.602271101413629	 lr: 0.19998
+Epoch [13/100]	 Time Taken: 1.5669882734616598 minutes
+Epoch [14/100]	
+Step [0/468]	 Loss: 3.57146
+Step [50/468]	 Loss: 3.56999
+Step [100/468]	 Loss: 3.57301
+Step [150/468]	 Loss: 3.57168
+Step [200/468]	 Loss: 3.57031
+Step [250/468]	 Loss: 3.57052
+Step [300/468]	 Loss: 3.57046
+Step [350/468]	 Loss: 3.57022
+Step [400/468]	 Loss: 3.57296
+Step [450/468]	 Loss: 3.56742
+Epoch 00005: adjusting learning rate of group 0 to 1.9996e-01.
+Step [0/78]	 Loss: 3.59819
+Step [50/78]	 Loss: 3.59651
+Epoch [14/100]	 Training Loss: 3.5705313820105333	 lr: 0.19996
+Epoch [14/100]	 Validation Loss: 3.600699149645292	 lr: 0.19996
+Epoch [14/100]	 Time Taken: 1.5683128158251445 minutes
+Epoch [15/100]	
+Step [0/468]	 Loss: 3.57431
+Step [50/468]	 Loss: 3.56874
+Step [100/468]	 Loss: 3.5737
+Step [150/468]	 Loss: 3.56891
+Step [200/468]	 Loss: 3.5706
+Step [250/468]	 Loss: 3.57
+Step [300/468]	 Loss: 3.56942
+Step [350/468]	 Loss: 3.57142
+Step [400/468]	 Loss: 3.57087
+Step [450/468]	 Loss: 3.56696
+Epoch 00006: adjusting learning rate of group 0 to 1.9995e-01.
+Step [0/78]	 Loss: 3.60042
+Step [50/78]	 Loss: 3.60056
+Epoch [15/100]	 Training Loss: 3.5700136759342294	 lr: 0.19995
+Epoch [15/100]	 Validation Loss: 3.603485740148104	 lr: 0.19995
+Epoch [15/100]	 Time Taken: 1.5666151483853659 minutes
+Epoch [16/100]	
+Step [0/468]	 Loss: 3.56937
+Step [50/468]	 Loss: 3.56922
+Step [100/468]	 Loss: 3.57324
+Step [150/468]	 Loss: 3.56856
+Step [200/468]	 Loss: 3.5695
+Step [250/468]	 Loss: 3.56886
+Step [300/468]	 Loss: 3.56928
+Step [350/468]	 Loss: 3.56938
+Step [400/468]	 Loss: 3.57159
+Step [450/468]	 Loss: 3.56646
+Epoch 00007: adjusting learning rate of group 0 to 1.9993e-01.
+Step [0/78]	 Loss: 3.59724
+Step [50/78]	 Loss: 3.59841
+Epoch [16/100]	 Training Loss: 3.5693178288956995	 lr: 0.19993
+Epoch [16/100]	 Validation Loss: 3.601017930568793	 lr: 0.19993
+Epoch [16/100]	 Time Taken: 1.5687787055969238 minutes
+Epoch [17/100]	
+Step [0/468]	 Loss: 3.56913
+Step [50/468]	 Loss: 3.56816
+Step [100/468]	 Loss: 3.5731
+Step [150/468]	 Loss: 3.56803
+Step [200/468]	 Loss: 3.56783
+Step [250/468]	 Loss: 3.56815
+Step [300/468]	 Loss: 3.5682
+Step [350/468]	 Loss: 3.56938
+Step [400/468]	 Loss: 3.56952
+Step [450/468]	 Loss: 3.56701
+Epoch 00008: adjusting learning rate of group 0 to 1.9991e-01.
+Step [0/78]	 Loss: 3.59939
+Step [50/78]	 Loss: 3.59941
+Epoch [17/100]	 Training Loss: 3.568903443650303	 lr: 0.19991
+Epoch [17/100]	 Validation Loss: 3.601691756493006	 lr: 0.19991
+Epoch [17/100]	 Time Taken: 1.5671058376630147 minutes
+Epoch [18/100]	
+Step [0/468]	 Loss: 3.56743
+Step [50/468]	 Loss: 3.56781
+Step [100/468]	 Loss: 3.57117
+Step [150/468]	 Loss: 3.56735
+Step [200/468]	 Loss: 3.56805
+Step [250/468]	 Loss: 3.56717
+Step [300/468]	 Loss: 3.56796
+Step [350/468]	 Loss: 3.56874
+Step [400/468]	 Loss: 3.57098
+Step [450/468]	 Loss: 3.56713
+Epoch 00009: adjusting learning rate of group 0 to 1.9988e-01.
+Step [0/78]	 Loss: 3.59903
+Step [50/78]	 Loss: 3.60126
+Epoch [18/100]	 Training Loss: 3.5684070429231367	 lr: 0.19988
+Epoch [18/100]	 Validation Loss: 3.6021488904953003	 lr: 0.19988
+Epoch [18/100]	 Time Taken: 1.5678537448247274 minutes
+Epoch [19/100]	
+Step [0/468]	 Loss: 3.56808
+Step [50/468]	 Loss: 3.56579
+Step [100/468]	 Loss: 3.57015
+Step [150/468]	 Loss: 3.56793
+Step [200/468]	 Loss: 3.56823
+Step [250/468]	 Loss: 3.56679
+Step [300/468]	 Loss: 3.56887
+Step [350/468]	 Loss: 3.56728
+Step [400/468]	 Loss: 3.56961
+Step [450/468]	 Loss: 3.56557
+Epoch 00010: adjusting learning rate of group 0 to 1.9985e-01.
+Step [0/78]	 Loss: 3.5972
+Step [50/78]	 Loss: 3.59831
+Epoch [19/100]	 Training Loss: 3.567873569125803	 lr: 0.19985
+Epoch [19/100]	 Validation Loss: 3.6008959733522854	 lr: 0.19985
+Epoch [19/100]	 Time Taken: 1.5670509616533914 minutes
+Epoch [20/100]	
+Step [0/468]	 Loss: 3.56736
+Step [50/468]	 Loss: 3.5666
+Step [100/468]	 Loss: 3.57008
+Step [150/468]	 Loss: 3.56851
+Step [200/468]	 Loss: 3.56723
+Step [250/468]	 Loss: 3.56639
+Step [300/468]	 Loss: 3.5671
+Step [350/468]	 Loss: 3.56735
+Step [400/468]	 Loss: 3.56793
+Step [450/468]	 Loss: 3.56811
+Epoch 00011: adjusting learning rate of group 0 to 1.9982e-01.
+Step [0/78]	 Loss: 3.6
+Step [50/78]	 Loss: 3.60141
+Epoch [20/100]	 Training Loss: 3.567508914022364	 lr: 0.19982
+Epoch [20/100]	 Validation Loss: 3.604956614665496	 lr: 0.19982
+Epoch [20/100]	 Time Taken: 1.5680788556734722 minutes
+Epoch [21/100]	
+Step [0/468]	 Loss: 3.56754
+Step [50/468]	 Loss: 3.56613
+Step [100/468]	 Loss: 3.57012
+Step [150/468]	 Loss: 3.56691
+Step [200/468]	 Loss: 3.56636
+Step [250/468]	 Loss: 3.56644
+Step [300/468]	 Loss: 3.56628
+Step [350/468]	 Loss: 3.56594
+Step [400/468]	 Loss: 3.56941
+Step [450/468]	 Loss: 3.56479
+Epoch 00012: adjusting learning rate of group 0 to 1.9979e-01.
+Step [0/78]	 Loss: 3.59712
+Step [50/78]	 Loss: 3.59653
+Epoch [21/100]	 Training Loss: 3.5671171301450486	 lr: 0.19979
+Epoch [21/100]	 Validation Loss: 3.6009004482856164	 lr: 0.19979
+Epoch [21/100]	 Time Taken: 1.5671292901039124 minutes
+Epoch [22/100]	
+Step [0/468]	 Loss: 3.56715
+Step [50/468]	 Loss: 3.56589
+Step [100/468]	 Loss: 3.5686
+Step [150/468]	 Loss: 3.56796
+Step [200/468]	 Loss: 3.56626
+Step [250/468]	 Loss: 3.56582
+Step [300/468]	 Loss: 3.56677
+Step [350/468]	 Loss: 3.56845
+Step [400/468]	 Loss: 3.56813
+Step [450/468]	 Loss: 3.56447
+Epoch 00013: adjusting learning rate of group 0 to 1.9975e-01.
+Step [0/78]	 Loss: 3.59871
+Step [50/78]	 Loss: 3.59977
+Epoch [22/100]	 Training Loss: 3.566644632918203	 lr: 0.19975
+Epoch [22/100]	 Validation Loss: 3.6030957240324755	 lr: 0.19975
+Epoch [22/100]	 Time Taken: 1.5687938531239827 minutes
+Epoch [23/100]	
+Step [0/468]	 Loss: 3.56708
+Step [50/468]	 Loss: 3.56498
+Step [100/468]	 Loss: 3.56837
+Step [150/468]	 Loss: 3.56723
+Step [200/468]	 Loss: 3.56615
+Step [250/468]	 Loss: 3.56571
+Step [300/468]	 Loss: 3.56501
+Step [350/468]	 Loss: 3.56703
+Step [400/468]	 Loss: 3.56728
+Step [450/468]	 Loss: 3.56509
+Epoch 00014: adjusting learning rate of group 0 to 1.9971e-01.
+Step [0/78]	 Loss: 3.60038
+Step [50/78]	 Loss: 3.6016
+Epoch [23/100]	 Training Loss: 3.566308173868391	 lr: 0.19971
+Epoch [23/100]	 Validation Loss: 3.604736490127368	 lr: 0.19971
+Epoch [23/100]	 Time Taken: 1.566555909315745 minutes
+Epoch [24/100]	
+Step [0/468]	 Loss: 3.56549
+Step [50/468]	 Loss: 3.56491
+Step [100/468]	 Loss: 3.56723
+Step [150/468]	 Loss: 3.56657
+Step [200/468]	 Loss: 3.56569
+Step [250/468]	 Loss: 3.56458
+Step [300/468]	 Loss: 3.56685
+Step [350/468]	 Loss: 3.5679
+Step [400/468]	 Loss: 3.567
+Step [450/468]	 Loss: 3.56383
+Epoch 00015: adjusting learning rate of group 0 to 1.9967e-01.
+Step [0/78]	 Loss: 3.59645
+Step [50/78]	 Loss: 3.59941
+Epoch [24/100]	 Training Loss: 3.565978520955795	 lr: 0.19967
+Epoch [24/100]	 Validation Loss: 3.6032924621533127	 lr: 0.19967
+Epoch [24/100]	 Time Taken: 1.5682453234990439 minutes
+Epoch [25/100]	
+Step [0/468]	 Loss: 3.56552
+Step [50/468]	 Loss: 3.56431
+Step [100/468]	 Loss: 3.56782
+Step [150/468]	 Loss: 3.56608
+Step [200/468]	 Loss: 3.56547
+Step [250/468]	 Loss: 3.564
+Step [300/468]	 Loss: 3.5647
+Step [350/468]	 Loss: 3.56536
+Step [400/468]	 Loss: 3.56604
+Step [450/468]	 Loss: 3.56483
+Epoch 00016: adjusting learning rate of group 0 to 1.9962e-01.
+Step [0/78]	 Loss: 3.5977
+Step [50/78]	 Loss: 3.59757
+Epoch [25/100]	 Training Loss: 3.565642983994932	 lr: 0.19962
+Epoch [25/100]	 Validation Loss: 3.602098605571649	 lr: 0.19962
+Epoch [25/100]	 Time Taken: 1.567989989121755 minutes
+Epoch [26/100]	
+Step [0/468]	 Loss: 3.56575
+Step [50/468]	 Loss: 3.56435
+Step [100/468]	 Loss: 3.56715
+Step [150/468]	 Loss: 3.56602
+Step [200/468]	 Loss: 3.56656
+Step [250/468]	 Loss: 3.56424
+Step [300/468]	 Loss: 3.56489
+Step [350/468]	 Loss: 3.56612
+Step [400/468]	 Loss: 3.56759
+Step [450/468]	 Loss: 3.56394
+Epoch 00017: adjusting learning rate of group 0 to 1.9957e-01.
+Step [0/78]	 Loss: 3.59793
+Step [50/78]	 Loss: 3.60016
+Epoch [26/100]	 Training Loss: 3.5652681813280807	 lr: 0.19957
+Epoch [26/100]	 Validation Loss: 3.6026129722595215	 lr: 0.19957
+Epoch [26/100]	 Time Taken: 1.5678909301757813 minutes
+Epoch [27/100]	
+Step [0/468]	 Loss: 3.56524
+Step [50/468]	 Loss: 3.5653
+Step [100/468]	 Loss: 3.5673
+Step [150/468]	 Loss: 3.56534
+Step [200/468]	 Loss: 3.56506
+Step [250/468]	 Loss: 3.56313
+Step [300/468]	 Loss: 3.5647
+Step [350/468]	 Loss: 3.56512
+Step [400/468]	 Loss: 3.56657
+Step [450/468]	 Loss: 3.56319
+Epoch 00018: adjusting learning rate of group 0 to 1.9952e-01.
+Step [0/78]	 Loss: 3.59545
+Step [50/78]	 Loss: 3.598
+Epoch [27/100]	 Training Loss: 3.564984516200856	 lr: 0.19952
+Epoch [27/100]	 Validation Loss: 3.601785320502061	 lr: 0.19952
+Epoch [27/100]	 Time Taken: 1.569400397936503 minutes
+Epoch [28/100]	
+Step [0/468]	 Loss: 3.56496
+Step [50/468]	 Loss: 3.5639
+Step [100/468]	 Loss: 3.56624
+Step [150/468]	 Loss: 3.56437
+Step [200/468]	 Loss: 3.56444
+Step [250/468]	 Loss: 3.56383
+Step [300/468]	 Loss: 3.56402
+Step [350/468]	 Loss: 3.56453
+Step [400/468]	 Loss: 3.56633
+Step [450/468]	 Loss: 3.56297
+Epoch 00019: adjusting learning rate of group 0 to 1.9947e-01.
+Step [0/78]	 Loss: 3.59675
+Step [50/78]	 Loss: 3.59915
+Epoch [28/100]	 Training Loss: 3.5646983950566025	 lr: 0.19947
+Epoch [28/100]	 Validation Loss: 3.602915060825837	 lr: 0.19947
+Epoch [28/100]	 Time Taken: 1.5676794171333313 minutes
+Epoch [29/100]	
+Step [0/468]	 Loss: 3.56462
+Step [50/468]	 Loss: 3.56373
+Step [100/468]	 Loss: 3.56696
+Step [150/468]	 Loss: 3.56348
+Step [200/468]	 Loss: 3.56425
+Step [250/468]	 Loss: 3.5634
+Step [300/468]	 Loss: 3.56365
+Step [350/468]	 Loss: 3.56501
+Step [400/468]	 Loss: 3.56634
+Step [450/468]	 Loss: 3.56403
+Epoch 00020: adjusting learning rate of group 0 to 1.9941e-01.
+Step [0/78]	 Loss: 3.59699
+Step [50/78]	 Loss: 3.59682
+Epoch [29/100]	 Training Loss: 3.5645163935473843	 lr: 0.19941
+Epoch [29/100]	 Validation Loss: 3.5998734144064097	 lr: 0.19941
+Epoch [29/100]	 Time Taken: 1.5693907181421916 minutes
+Epoch [30/100]	
+Step [0/468]	 Loss: 3.56401
+Step [50/468]	 Loss: 3.56374
+Step [100/468]	 Loss: 3.56568
+Step [150/468]	 Loss: 3.56572
+Step [200/468]	 Loss: 3.5637
+Step [250/468]	 Loss: 3.56281
+Step [300/468]	 Loss: 3.56395
+Step [350/468]	 Loss: 3.56536
+Step [400/468]	 Loss: 3.5662
+Step [450/468]	 Loss: 3.56284
+Epoch 00021: adjusting learning rate of group 0 to 1.9935e-01.
+Step [0/78]	 Loss: 3.59706
+Step [50/78]	 Loss: 3.59765
+Epoch [30/100]	 Training Loss: 3.5641504740103698	 lr: 0.19935
+Epoch [30/100]	 Validation Loss: 3.6014506694598074	 lr: 0.19935
+Epoch [30/100]	 Time Taken: 1.5688474655151368 minutes
+Epoch [31/100]	
+Step [0/468]	 Loss: 3.56465
+Step [50/468]	 Loss: 3.56286
+Step [100/468]	 Loss: 3.56639
+Step [150/468]	 Loss: 3.56339
+Step [200/468]	 Loss: 3.56347
+Step [250/468]	 Loss: 3.56251
+Step [300/468]	 Loss: 3.56322
+Step [350/468]	 Loss: 3.56502
+Step [400/468]	 Loss: 3.56546
+Step [450/468]	 Loss: 3.56283
+Epoch 00022: adjusting learning rate of group 0 to 1.9928e-01.
+Step [0/78]	 Loss: 3.59719
+Step [50/78]	 Loss: 3.60067
+Epoch [31/100]	 Training Loss: 3.5639350057667136	 lr: 0.19928
+Epoch [31/100]	 Validation Loss: 3.6023616576806092	 lr: 0.19928
+Epoch [31/100]	 Time Taken: 1.5687267263730367 minutes
+Epoch [32/100]	
+Step [0/468]	 Loss: 3.56429
+Step [50/468]	 Loss: 3.56288
+Step [100/468]	 Loss: 3.56675
+Step [150/468]	 Loss: 3.56408
+Step [200/468]	 Loss: 3.56405
+Step [250/468]	 Loss: 3.5629
+Step [300/468]	 Loss: 3.56307
+Step [350/468]	 Loss: 3.56516
+Step [400/468]	 Loss: 3.56496
+Step [450/468]	 Loss: 3.56329
+Epoch 00023: adjusting learning rate of group 0 to 1.9922e-01.
+Step [0/78]	 Loss: 3.59688
+Step [50/78]	 Loss: 3.60059
+Epoch [32/100]	 Training Loss: 3.563711663087209	 lr: 0.19922
+Epoch [32/100]	 Validation Loss: 3.6017459417000794	 lr: 0.19922
+Epoch [32/100]	 Time Taken: 1.5689224362373353 minutes
+Epoch [33/100]	
+Step [0/468]	 Loss: 3.56337
+Step [50/468]	 Loss: 3.56249
+Step [100/468]	 Loss: 3.56535
+Step [150/468]	 Loss: 3.56249
+Step [200/468]	 Loss: 3.56294
+Step [250/468]	 Loss: 3.56196
+Step [300/468]	 Loss: 3.56525
+Step [350/468]	 Loss: 3.56504
+Step [400/468]	 Loss: 3.56385
+Step [450/468]	 Loss: 3.56279
+Epoch 00024: adjusting learning rate of group 0 to 1.9915e-01.
+Step [0/78]	 Loss: 3.59609
+Step [50/78]	 Loss: 3.60221
+Epoch [33/100]	 Training Loss: 3.5634227639589553	 lr: 0.19915
+Epoch [33/100]	 Validation Loss: 3.6032712642963114	 lr: 0.19915
+Epoch [33/100]	 Time Taken: 1.5670511881510416 minutes
+Epoch [34/100]	
+Step [0/468]	 Loss: 3.56255
+Step [50/468]	 Loss: 3.56244
+Step [100/468]	 Loss: 3.56486
+Step [150/468]	 Loss: 3.56253
+Step [200/468]	 Loss: 3.56373
+Step [250/468]	 Loss: 3.56213
+Step [300/468]	 Loss: 3.56234
+Step [350/468]	 Loss: 3.56409
+Step [400/468]	 Loss: 3.56398
+Step [450/468]	 Loss: 3.56264
+Epoch 00025: adjusting learning rate of group 0 to 1.9908e-01.
+Step [0/78]	 Loss: 3.59473
+Step [50/78]	 Loss: 3.59832
+Epoch [34/100]	 Training Loss: 3.563268648762988	 lr: 0.19908
+Epoch [34/100]	 Validation Loss: 3.60076275238624	 lr: 0.19908
+Epoch [34/100]	 Time Taken: 1.5620696981747946 minutes
+Epoch [35/100]	
+Step [0/468]	 Loss: 3.56235
+Step [50/468]	 Loss: 3.56316
+Step [100/468]	 Loss: 3.56449
+Step [150/468]	 Loss: 3.56171
+Step [200/468]	 Loss: 3.56405
+Step [250/468]	 Loss: 3.56207
+Step [300/468]	 Loss: 3.56254
+Step [350/468]	 Loss: 3.56519
+Step [400/468]	 Loss: 3.56362
+Step [450/468]	 Loss: 3.56128
+Epoch 00026: adjusting learning rate of group 0 to 1.9900e-01.
+Step [0/78]	 Loss: 3.60066
+Step [50/78]	 Loss: 3.60524
+Epoch [35/100]	 Training Loss: 3.5630038069863605	 lr: 0.199
+Epoch [35/100]	 Validation Loss: 3.6058059074939828	 lr: 0.199
+Epoch [35/100]	 Time Taken: 1.562180225054423 minutes
+Epoch [36/100]	
+Step [0/468]	 Loss: 3.56219
+Step [50/468]	 Loss: 3.56164
+Step [100/468]	 Loss: 3.56559
+Step [150/468]	 Loss: 3.56248
+Step [200/468]	 Loss: 3.56291
+Step [250/468]	 Loss: 3.56139
+Step [300/468]	 Loss: 3.56303
+Step [350/468]	 Loss: 3.56445
+Step [400/468]	 Loss: 3.5639
+Step [450/468]	 Loss: 3.56165
+Epoch 00027: adjusting learning rate of group 0 to 1.9892e-01.
+Step [0/78]	 Loss: 3.59672
+Step [50/78]	 Loss: 3.59764
+Epoch [36/100]	 Training Loss: 3.562709604573046	 lr: 0.19892
+Epoch [36/100]	 Validation Loss: 3.6004375280478063	 lr: 0.19892
+Epoch [36/100]	 Time Taken: 1.563226008415222 minutes
+Epoch [37/100]	
+Step [0/468]	 Loss: 3.56225
+Step [50/468]	 Loss: 3.56197
+Step [100/468]	 Loss: 3.56431
+Step [150/468]	 Loss: 3.56407
+Step [200/468]	 Loss: 3.56415
+Step [250/468]	 Loss: 3.56218
+Step [300/468]	 Loss: 3.5625
+Step [350/468]	 Loss: 3.56318
+Step [400/468]	 Loss: 3.56325
+Step [450/468]	 Loss: 3.56199
+Epoch 00028: adjusting learning rate of group 0 to 1.9884e-01.
+Step [0/78]	 Loss: 3.59918
+Step [50/78]	 Loss: 3.60083
+Epoch [37/100]	 Training Loss: 3.562657846344842	 lr: 0.19884
+Epoch [37/100]	 Validation Loss: 3.603388697673113	 lr: 0.19884
+Epoch [37/100]	 Time Taken: 1.5610086599985757 minutes
+Epoch [38/100]	
+Step [0/468]	 Loss: 3.56177
+Step [50/468]	 Loss: 3.5619
+Step [100/468]	 Loss: 3.56395
+Step [150/468]	 Loss: 3.56213
+Step [200/468]	 Loss: 3.56243
+Step [250/468]	 Loss: 3.56196
+Step [300/468]	 Loss: 3.5618
+Step [350/468]	 Loss: 3.56269
+Step [400/468]	 Loss: 3.56272
+Step [450/468]	 Loss: 3.56094
+Epoch 00029: adjusting learning rate of group 0 to 1.9876e-01.
+Step [0/78]	 Loss: 3.59937
+Step [50/78]	 Loss: 3.60104
+Epoch [38/100]	 Training Loss: 3.562387684981028	 lr: 0.19876
+Epoch [38/100]	 Validation Loss: 3.604382628049606	 lr: 0.19876
+Epoch [38/100]	 Time Taken: 1.5620525081952412 minutes
+Epoch [39/100]	
+Step [0/468]	 Loss: 3.56381
+Step [50/468]	 Loss: 3.56291
+Step [100/468]	 Loss: 3.56629
+Step [150/468]	 Loss: 3.56223
+Step [200/468]	 Loss: 3.56245
+Step [250/468]	 Loss: 3.5609
+Step [300/468]	 Loss: 3.56382
+Step [350/468]	 Loss: 3.56557
+Step [400/468]	 Loss: 3.56307
+Step [450/468]	 Loss: 3.56107
+Epoch 00030: adjusting learning rate of group 0 to 1.9867e-01.
+Step [0/78]	 Loss: 3.59819
+Step [50/78]	 Loss: 3.60115
+Epoch [39/100]	 Training Loss: 3.5621796194304767	 lr: 0.19867
+Epoch [39/100]	 Validation Loss: 3.6031910945207644	 lr: 0.19867
+Epoch [39/100]	 Time Taken: 1.5611535549163817 minutes
+Epoch [40/100]	
+Step [0/468]	 Loss: 3.56107
+Step [50/468]	 Loss: 3.56131
+Step [100/468]	 Loss: 3.56342
+Step [150/468]	 Loss: 3.56295
+Step [200/468]	 Loss: 3.56178
+Step [250/468]	 Loss: 3.56139
+Step [300/468]	 Loss: 3.56246
+Step [350/468]	 Loss: 3.56342
+Step [400/468]	 Loss: 3.56301
+Step [450/468]	 Loss: 3.56069
+Epoch 00031: adjusting learning rate of group 0 to 1.9858e-01.
+Step [0/78]	 Loss: 3.59437
+Step [50/78]	 Loss: 3.60105
+Epoch [40/100]	 Training Loss: 3.5621215283361254	 lr: 0.19858
+Epoch [40/100]	 Validation Loss: 3.6018022268246384	 lr: 0.19858
+Epoch [40/100]	 Time Taken: 1.560792911052704 minutes
+Epoch [41/100]	
+Step [0/468]	 Loss: 3.5619
+Step [50/468]	 Loss: 3.56064
+Step [100/468]	 Loss: 3.56377
+Step [150/468]	 Loss: 3.56174
+Step [200/468]	 Loss: 3.56304
+Step [250/468]	 Loss: 3.56079
+Step [300/468]	 Loss: 3.56142
+Step [350/468]	 Loss: 3.56208
+Step [400/468]	 Loss: 3.56212
+Step [450/468]	 Loss: 3.56065
+Epoch 00032: adjusting learning rate of group 0 to 1.9849e-01.
+Step [0/78]	 Loss: 3.59707
+Step [50/78]	 Loss: 3.60202
+Epoch [41/100]	 Training Loss: 3.5618686793196916	 lr: 0.19849
+Epoch [41/100]	 Validation Loss: 3.6031182209650674	 lr: 0.19849
+Epoch [41/100]	 Time Taken: 1.5688074787457784 minutes
+Epoch [42/100]	
+Step [0/468]	 Loss: 3.56132
+Step [50/468]	 Loss: 3.56061
+Step [100/468]	 Loss: 3.56346
+Step [150/468]	 Loss: 3.56307
+Step [200/468]	 Loss: 3.5623
+Step [250/468]	 Loss: 3.56067
+Step [300/468]	 Loss: 3.56181
+Step [350/468]	 Loss: 3.5629
+Step [400/468]	 Loss: 3.56215
+Step [450/468]	 Loss: 3.56113
+Epoch 00033: adjusting learning rate of group 0 to 1.9839e-01.
+Step [0/78]	 Loss: 3.59888
+Step [50/78]	 Loss: 3.60099
+Epoch [42/100]	 Training Loss: 3.5617879904233494	 lr: 0.19839
+Epoch [42/100]	 Validation Loss: 3.603469038620973	 lr: 0.19839
+Epoch [42/100]	 Time Taken: 1.5668777743975322 minutes
+Epoch [43/100]	
+Step [0/468]	 Loss: 3.56158
+Step [50/468]	 Loss: 3.56081
+Step [100/468]	 Loss: 3.56238
+Step [150/468]	 Loss: 3.56133
+Step [200/468]	 Loss: 3.56151
+Step [250/468]	 Loss: 3.56003
+Step [300/468]	 Loss: 3.5625
+Step [350/468]	 Loss: 3.56151
+Step [400/468]	 Loss: 3.5624
+Step [450/468]	 Loss: 3.56027
+Epoch 00034: adjusting learning rate of group 0 to 1.9830e-01.
+Step [0/78]	 Loss: 3.59715
+Step [50/78]	 Loss: 3.60211
+Epoch [43/100]	 Training Loss: 3.5616051198070884	 lr: 0.1983
+Epoch [43/100]	 Validation Loss: 3.6038258901009192	 lr: 0.1983
+Epoch [43/100]	 Time Taken: 1.5669551293055217 minutes
+Epoch [44/100]	
+Step [0/468]	 Loss: 3.56084
+Step [50/468]	 Loss: 3.56082
+Step [100/468]	 Loss: 3.5622
+Step [150/468]	 Loss: 3.56141
+Step [200/468]	 Loss: 3.56152
+Step [250/468]	 Loss: 3.56058
+Step [300/468]	 Loss: 3.5614
+Step [350/468]	 Loss: 3.56135
+Step [400/468]	 Loss: 3.56147
+Step [450/468]	 Loss: 3.56064
+Epoch 00035: adjusting learning rate of group 0 to 1.9819e-01.
+Step [0/78]	 Loss: 3.59498
+Step [50/78]	 Loss: 3.60125
+Epoch [44/100]	 Training Loss: 3.561427369586423	 lr: 0.19819
+Epoch [44/100]	 Validation Loss: 3.6028161262854552	 lr: 0.19819
+Epoch [44/100]	 Time Taken: 1.5659473657608032 minutes
+Epoch [45/100]	
+Step [0/468]	 Loss: 3.56132
+Step [50/468]	 Loss: 3.56108
+Step [100/468]	 Loss: 3.56339
+Step [150/468]	 Loss: 3.56216
+Step [200/468]	 Loss: 3.56135
+Step [250/468]	 Loss: 3.56022
+Step [300/468]	 Loss: 3.56173
+Step [350/468]	 Loss: 3.5607
+Step [400/468]	 Loss: 3.56245
+Step [450/468]	 Loss: 3.55985
+Epoch 00036: adjusting learning rate of group 0 to 1.9809e-01.
+Step [0/78]	 Loss: 3.59732
+Step [50/78]	 Loss: 3.60077
+Epoch [45/100]	 Training Loss: 3.561267512476342	 lr: 0.19809
+Epoch [45/100]	 Validation Loss: 3.603408853212992	 lr: 0.19809
+Epoch [45/100]	 Time Taken: 1.5670293649037679 minutes
+Epoch [46/100]	
+Step [0/468]	 Loss: 3.56003
+Step [50/468]	 Loss: 3.56048
+Step [100/468]	 Loss: 3.5623
+Step [150/468]	 Loss: 3.56139
+Step [200/468]	 Loss: 3.561
+Step [250/468]	 Loss: 3.55923
+Step [300/468]	 Loss: 3.56096
+Step [350/468]	 Loss: 3.56178
+Step [400/468]	 Loss: 3.56133
+Step [450/468]	 Loss: 3.55998
+Epoch 00037: adjusting learning rate of group 0 to 1.9798e-01.
+Step [0/78]	 Loss: 3.59832
+Step [50/78]	 Loss: 3.60124
+Epoch [46/100]	 Training Loss: 3.5611652242831693	 lr: 0.19798
+Epoch [46/100]	 Validation Loss: 3.6035808508212748	 lr: 0.19798
+Epoch [46/100]	 Time Taken: 1.5592984120051065 minutes
+Epoch [47/100]	
+Step [0/468]	 Loss: 3.55983
+Step [50/468]	 Loss: 3.56006
+Step [100/468]	 Loss: 3.56259
+Step [150/468]	 Loss: 3.56028
+Step [200/468]	 Loss: 3.56108
+Step [250/468]	 Loss: 3.5594
+Step [300/468]	 Loss: 3.56079
+Step [350/468]	 Loss: 3.56187
+Step [400/468]	 Loss: 3.56116
+Step [450/468]	 Loss: 3.56015
+Epoch 00038: adjusting learning rate of group 0 to 1.9787e-01.
+Step [0/78]	 Loss: 3.59756
+Step [50/78]	 Loss: 3.59822
+Epoch [47/100]	 Training Loss: 3.560945180236784	 lr: 0.19787
+Epoch [47/100]	 Validation Loss: 3.601843149234087	 lr: 0.19787
+Epoch [47/100]	 Time Taken: 1.557427748044332 minutes
+Epoch [48/100]	
+Step [0/468]	 Loss: 3.55994
+Step [50/468]	 Loss: 3.56075
+Step [100/468]	 Loss: 3.56179
+Step [150/468]	 Loss: 3.56062
+Step [200/468]	 Loss: 3.56279
+Step [250/468]	 Loss: 3.55975
+Step [300/468]	 Loss: 3.56213
+Step [350/468]	 Loss: 3.56287
+Step [400/468]	 Loss: 3.56134
+Step [450/468]	 Loss: 3.5601
+Epoch 00039: adjusting learning rate of group 0 to 1.9776e-01.
+Step [0/78]	 Loss: 3.595
+Step [50/78]	 Loss: 3.59702
+Epoch [48/100]	 Training Loss: 3.560890682742127	 lr: 0.19776
+Epoch [48/100]	 Validation Loss: 3.600326058192131	 lr: 0.19776
+Epoch [48/100]	 Time Taken: 1.5521173516909281 minutes
+Epoch [49/100]	
+Step [0/468]	 Loss: 3.55987
+Step [50/468]	 Loss: 3.56094
+Step [100/468]	 Loss: 3.5609
+Step [150/468]	 Loss: 3.56089
+Step [200/468]	 Loss: 3.56113
+Step [250/468]	 Loss: 3.5597
+Step [300/468]	 Loss: 3.56033
+Step [350/468]	 Loss: 3.56096
+Step [400/468]	 Loss: 3.56172
+Step [450/468]	 Loss: 3.56018
+Epoch 00040: adjusting learning rate of group 0 to 1.9764e-01.
+Step [0/78]	 Loss: 3.5958
+Step [50/78]	 Loss: 3.5999
+Epoch [49/100]	 Training Loss: 3.5608281559414334	 lr: 0.19764
+Epoch [49/100]	 Validation Loss: 3.602679811991178	 lr: 0.19764
+Epoch [49/100]	 Time Taken: 1.5636902650197346 minutes
+Epoch [50/100]	
+Step [0/468]	 Loss: 3.56003
+Step [50/468]	 Loss: 3.5591
+Step [100/468]	 Loss: 3.56148
+Step [150/468]	 Loss: 3.56406
+Step [200/468]	 Loss: 3.56153
+Step [250/468]	 Loss: 3.5598
+Step [300/468]	 Loss: 3.56059
+Step [350/468]	 Loss: 3.56107
+Step [400/468]	 Loss: 3.56048
+Step [450/468]	 Loss: 3.55993
+Epoch 00041: adjusting learning rate of group 0 to 1.9753e-01.
+Step [0/78]	 Loss: 3.5968
+Step [50/78]	 Loss: 3.59986
+Epoch [50/100]	 Training Loss: 3.5605782056466126	 lr: 0.19753
+Epoch [50/100]	 Validation Loss: 3.602403524594429	 lr: 0.19753
+Epoch [50/100]	 Time Taken: 1.5584439516067505 minutes
+Epoch [51/100]	
+Step [0/468]	 Loss: 3.56001
+Step [50/468]	 Loss: 3.55987
+Step [100/468]	 Loss: 3.56147
+Step [150/468]	 Loss: 3.56056
+Step [200/468]	 Loss: 3.56027
+Step [250/468]	 Loss: 3.55924
+Step [300/468]	 Loss: 3.56051
+Step [350/468]	 Loss: 3.5602
+Step [400/468]	 Loss: 3.56126
+Step [450/468]	 Loss: 3.5606
+Epoch 00042: adjusting learning rate of group 0 to 1.9740e-01.
+Step [0/78]	 Loss: 3.59534
+Step [50/78]	 Loss: 3.60016
+Epoch [51/100]	 Training Loss: 3.5605039372403398	 lr: 0.1974
+Epoch [51/100]	 Validation Loss: 3.601574576818026	 lr: 0.1974
+Epoch [51/100]	 Time Taken: 1.5599273602167765 minutes
+Epoch [52/100]	
+Step [0/468]	 Loss: 3.55941
+Step [50/468]	 Loss: 3.55929
+Step [100/468]	 Loss: 3.56125
+Step [150/468]	 Loss: 3.56036
+Step [200/468]	 Loss: 3.56077
+Step [250/468]	 Loss: 3.56045
+Step [300/468]	 Loss: 3.55988
+Step [350/468]	 Loss: 3.56072
+Step [400/468]	 Loss: 3.56126
+Step [450/468]	 Loss: 3.55962
+Epoch 00043: adjusting learning rate of group 0 to 1.9728e-01.
+Step [0/78]	 Loss: 3.59872
+Step [50/78]	 Loss: 3.60376
+Epoch [52/100]	 Training Loss: 3.5603566475403614	 lr: 0.19728
+Epoch [52/100]	 Validation Loss: 3.603273171644944	 lr: 0.19728
+Epoch [52/100]	 Time Taken: 1.5591801246007284 minutes
+Epoch [53/100]	
+Step [0/468]	 Loss: 3.55942
+Step [50/468]	 Loss: 3.55947
+Step [100/468]	 Loss: 3.56465
+Step [150/468]	 Loss: 3.55966
+Step [200/468]	 Loss: 3.56089
+Step [250/468]	 Loss: 3.55875
+Step [300/468]	 Loss: 3.56047
+Step [350/468]	 Loss: 3.56149
+Step [400/468]	 Loss: 3.56121
+Step [450/468]	 Loss: 3.55963
+Epoch 00044: adjusting learning rate of group 0 to 1.9715e-01.
+Step [0/78]	 Loss: 3.59796
+Step [50/78]	 Loss: 3.60101
+Epoch [53/100]	 Training Loss: 3.5602437344371762	 lr: 0.19715
+Epoch [53/100]	 Validation Loss: 3.603052026186234	 lr: 0.19715
+Epoch [53/100]	 Time Taken: 1.5604855298995972 minutes
+Epoch [54/100]	
+Step [0/468]	 Loss: 3.55891
+Step [50/468]	 Loss: 3.55945
+Step [100/468]	 Loss: 3.56171
+Step [150/468]	 Loss: 3.56011
+Step [200/468]	 Loss: 3.56221
+Step [250/468]	 Loss: 3.55905
+Step [300/468]	 Loss: 3.56034
+Step [350/468]	 Loss: 3.56019
+Step [400/468]	 Loss: 3.56155
+Step [450/468]	 Loss: 3.55891
+Epoch 00045: adjusting learning rate of group 0 to 1.9702e-01.
+Step [0/78]	 Loss: 3.59545
+Step [50/78]	 Loss: 3.5997
+Epoch [54/100]	 Training Loss: 3.5601712765856686	 lr: 0.19702
+Epoch [54/100]	 Validation Loss: 3.601483769905873	 lr: 0.19702
+Epoch [54/100]	 Time Taken: 1.559201713403066 minutes
+Epoch [55/100]	
+Step [0/468]	 Loss: 3.55881
+Step [50/468]	 Loss: 3.55912
+Step [100/468]	 Loss: 3.56142
+Step [150/468]	 Loss: 3.55998
+Step [200/468]	 Loss: 3.55988
+Step [250/468]	 Loss: 3.5594
+Step [300/468]	 Loss: 3.55952
+Step [350/468]	 Loss: 3.55995
+Step [400/468]	 Loss: 3.56073
+Step [450/468]	 Loss: 3.55955
+Epoch 00046: adjusting learning rate of group 0 to 1.9689e-01.
+Step [0/78]	 Loss: 3.59768
+Step [50/78]	 Loss: 3.59786
+Epoch [55/100]	 Training Loss: 3.559995009858384	 lr: 0.19689
+Epoch [55/100]	 Validation Loss: 3.6010207518553123	 lr: 0.19689
+Epoch [55/100]	 Time Taken: 1.56043914159139 minutes
+Epoch [56/100]	
+Step [0/468]	 Loss: 3.55851
+Step [50/468]	 Loss: 3.55982
+Step [100/468]	 Loss: 3.56194
+Step [150/468]	 Loss: 3.55928
+Step [200/468]	 Loss: 3.56017
+Step [250/468]	 Loss: 3.55868
+Step [300/468]	 Loss: 3.55955
+Step [350/468]	 Loss: 3.55978
+Step [400/468]	 Loss: 3.55961
+Step [450/468]	 Loss: 3.55986
+Epoch 00047: adjusting learning rate of group 0 to 1.9675e-01.
+Step [0/78]	 Loss: 3.59503
+Step [50/78]	 Loss: 3.59803
+Epoch [56/100]	 Training Loss: 3.559984140416496	 lr: 0.19675
+Epoch [56/100]	 Validation Loss: 3.600276326521849	 lr: 0.19675
+Epoch [56/100]	 Time Taken: 1.559348452091217 minutes
+Epoch [57/100]	
+Step [0/468]	 Loss: 3.55872
+Step [50/468]	 Loss: 3.55958
+Step [100/468]	 Loss: 3.5609
+Step [150/468]	 Loss: 3.55955
+Step [200/468]	 Loss: 3.56052
+Step [250/468]	 Loss: 3.55995
+Step [300/468]	 Loss: 3.55987
+Step [350/468]	 Loss: 3.56056
+Step [400/468]	 Loss: 3.56007
+Step [450/468]	 Loss: 3.55953
+Epoch 00048: adjusting learning rate of group 0 to 1.9661e-01.
+Step [0/78]	 Loss: 3.59768
+Step [50/78]	 Loss: 3.59941
+Epoch [57/100]	 Training Loss: 3.559951891247024	 lr: 0.19661
+Epoch [57/100]	 Validation Loss: 3.6008365765596047	 lr: 0.19661
+Epoch [57/100]	 Time Taken: 1.5600291609764099 minutes
+Epoch [58/100]	
+Step [0/468]	 Loss: 3.55999
+Step [50/468]	 Loss: 3.56022
+Step [100/468]	 Loss: 3.56088
+Step [150/468]	 Loss: 3.55943
+Step [200/468]	 Loss: 3.55999
+Step [250/468]	 Loss: 3.559
+Step [300/468]	 Loss: 3.55987
+Step [350/468]	 Loss: 3.55926
+Step [400/468]	 Loss: 3.56061
+Step [450/468]	 Loss: 3.55917
+Epoch 00049: adjusting learning rate of group 0 to 1.9647e-01.
+Step [0/78]	 Loss: 3.5967
+Step [50/78]	 Loss: 3.6003
+Epoch [58/100]	 Training Loss: 3.559796179461683	 lr: 0.19647
+Epoch [58/100]	 Validation Loss: 3.60293487402109	 lr: 0.19647
+Epoch [58/100]	 Time Taken: 1.5500262300173442 minutes
+Epoch [59/100]	
+Step [0/468]	 Loss: 3.55877
+Step [50/468]	 Loss: 3.55845
+Step [100/468]	 Loss: 3.56041
+Step [150/468]	 Loss: 3.55907
+Step [200/468]	 Loss: 3.55995
+Step [250/468]	 Loss: 3.55854
+Step [300/468]	 Loss: 3.56009
+Step [350/468]	 Loss: 3.55972
+Step [400/468]	 Loss: 3.56054
+Step [450/468]	 Loss: 3.55911
+Epoch 00050: adjusting learning rate of group 0 to 1.9633e-01.
+Step [0/78]	 Loss: 3.59741
+Step [50/78]	 Loss: 3.5979
+Epoch [59/100]	 Training Loss: 3.5596153140068054	 lr: 0.19633
+Epoch [59/100]	 Validation Loss: 3.6011140315960617	 lr: 0.19633
+Epoch [59/100]	 Time Taken: 1.5487000981966654 minutes
+Epoch [60/100]	
+Step [0/468]	 Loss: 3.55944
+Step [50/468]	 Loss: 3.55944
+Step [100/468]	 Loss: 3.55999
+Step [150/468]	 Loss: 3.5595
+Step [200/468]	 Loss: 3.56071
+Step [250/468]	 Loss: 3.55838
+Step [300/468]	 Loss: 3.55955
+Step [350/468]	 Loss: 3.55925
+Step [400/468]	 Loss: 3.55983
+Step [450/468]	 Loss: 3.55853
+Epoch 00051: adjusting learning rate of group 0 to 1.9618e-01.
+Step [0/78]	 Loss: 3.59659
+Step [50/78]	 Loss: 3.60078
+Epoch [60/100]	 Training Loss: 3.55950723346482	 lr: 0.19618
+Epoch [60/100]	 Validation Loss: 3.60233962841523	 lr: 0.19618
+Epoch [60/100]	 Time Taken: 1.547478151321411 minutes
+Epoch [61/100]	
+Step [0/468]	 Loss: 3.55839
+Step [50/468]	 Loss: 3.55897
+Step [100/468]	 Loss: 3.55938
+Step [150/468]	 Loss: 3.55868
+Step [200/468]	 Loss: 3.55954
+Step [250/468]	 Loss: 3.55868
+Step [300/468]	 Loss: 3.55959
+Step [350/468]	 Loss: 3.56004
+Step [400/468]	 Loss: 3.55964
+Step [450/468]	 Loss: 3.55965
+Epoch 00052: adjusting learning rate of group 0 to 1.9603e-01.
+Step [0/78]	 Loss: 3.59689
+Step [50/78]	 Loss: 3.60127
+Epoch [61/100]	 Training Loss: 3.5594612186790533	 lr: 0.19603
+Epoch [61/100]	 Validation Loss: 3.6020499712381606	 lr: 0.19603
+Epoch [61/100]	 Time Taken: 1.564006515343984 minutes
+Epoch [62/100]	
+Step [0/468]	 Loss: 3.55844
+Step [50/468]	 Loss: 3.5587
+Step [100/468]	 Loss: 3.5619
+Step [150/468]	 Loss: 3.55877
+Step [200/468]	 Loss: 3.56002
+Step [250/468]	 Loss: 3.55851
+Step [300/468]	 Loss: 3.55919
+Step [350/468]	 Loss: 3.5597
+Step [400/468]	 Loss: 3.55982
+Step [450/468]	 Loss: 3.559
+Epoch 00053: adjusting learning rate of group 0 to 1.9588e-01.
+Step [0/78]	 Loss: 3.59791
+Step [50/78]	 Loss: 3.60116
+Epoch [62/100]	 Training Loss: 3.559323258889027	 lr: 0.19588
+Epoch [62/100]	 Validation Loss: 3.6033012836407394	 lr: 0.19588
+Epoch [62/100]	 Time Taken: 1.5623059272766113 minutes
+Epoch [63/100]	
+Step [0/468]	 Loss: 3.55813
+Step [50/468]	 Loss: 3.55904
+Step [100/468]	 Loss: 3.56078
+Step [150/468]	 Loss: 3.55962
+Step [200/468]	 Loss: 3.55973
+Step [250/468]	 Loss: 3.55968
+Step [300/468]	 Loss: 3.55947
+Step [350/468]	 Loss: 3.56018
+Step [400/468]	 Loss: 3.56016
+Step [450/468]	 Loss: 3.55862
+Epoch 00054: adjusting learning rate of group 0 to 1.9572e-01.
+Step [0/78]	 Loss: 3.59557
+Step [50/78]	 Loss: 3.6022
+Epoch [63/100]	 Training Loss: 3.5592846024749627	 lr: 0.19572
+Epoch [63/100]	 Validation Loss: 3.6029495856700797	 lr: 0.19572
+Epoch [63/100]	 Time Taken: 1.5633646368980407 minutes
+Epoch [64/100]	
+Step [0/468]	 Loss: 3.55811
+Step [50/468]	 Loss: 3.55826
+Step [100/468]	 Loss: 3.56038
+Step [150/468]	 Loss: 3.55917
+Step [200/468]	 Loss: 3.5597
+Step [250/468]	 Loss: 3.55865
+Step [300/468]	 Loss: 3.5608
+Step [350/468]	 Loss: 3.55916
+Step [400/468]	 Loss: 3.56439
+Step [450/468]	 Loss: 3.55847
+Epoch 00055: adjusting learning rate of group 0 to 1.9557e-01.
+Step [0/78]	 Loss: 3.59522
+Step [50/78]	 Loss: 3.59745
+Epoch [64/100]	 Training Loss: 3.5591874545456	 lr: 0.19557
+Epoch [64/100]	 Validation Loss: 3.6004909766026034	 lr: 0.19557
+Epoch [64/100]	 Time Taken: 1.5462394555409749 minutes
+Epoch [65/100]	
+Step [0/468]	 Loss: 3.55843
+Step [50/468]	 Loss: 3.55833
+Step [100/468]	 Loss: 3.5597
+Step [150/468]	 Loss: 3.55901
+Step [200/468]	 Loss: 3.55928
+Step [250/468]	 Loss: 3.55788
+Step [300/468]	 Loss: 3.55961
+Step [350/468]	 Loss: 3.55895
+Step [400/468]	 Loss: 3.55954
+Step [450/468]	 Loss: 3.55794
+Epoch 00056: adjusting learning rate of group 0 to 1.9541e-01.
+Step [0/78]	 Loss: 3.59646
+Step [50/78]	 Loss: 3.60312
+Epoch [65/100]	 Training Loss: 3.5591185362929973	 lr: 0.19541
+Epoch [65/100]	 Validation Loss: 3.6038300563127565	 lr: 0.19541
+Epoch [65/100]	 Time Taken: 1.548252487182617 minutes
+Epoch [66/100]	
+Step [0/468]	 Loss: 3.55866
+Step [50/468]	 Loss: 3.55876
+Step [100/468]	 Loss: 3.55906
+Step [150/468]	 Loss: 3.55876
+Step [200/468]	 Loss: 3.55928
+Step [250/468]	 Loss: 3.55858
+Step [300/468]	 Loss: 3.55902
+Step [350/468]	 Loss: 3.55835
+Step [400/468]	 Loss: 3.55955
+Step [450/468]	 Loss: 3.55943
+Epoch 00057: adjusting learning rate of group 0 to 1.9524e-01.
+Step [0/78]	 Loss: 3.59651
+Step [50/78]	 Loss: 3.59893
+Epoch [66/100]	 Training Loss: 3.559101332456638	 lr: 0.19524
+Epoch [66/100]	 Validation Loss: 3.6017987391887565	 lr: 0.19524
+Epoch [66/100]	 Time Taken: 1.5494993249575297 minutes
+Epoch [67/100]	
+Step [0/468]	 Loss: 3.55846
+Step [50/468]	 Loss: 3.55828
+Step [100/468]	 Loss: 3.56013
+Step [150/468]	 Loss: 3.55882
+Step [200/468]	 Loss: 3.55896
+Step [250/468]	 Loss: 3.55792
+Step [300/468]	 Loss: 3.55906
+Step [350/468]	 Loss: 3.55929
+Step [400/468]	 Loss: 3.55882
+Step [450/468]	 Loss: 3.55864
+Epoch 00058: adjusting learning rate of group 0 to 1.9507e-01.
+Step [0/78]	 Loss: 3.59466
+Step [50/78]	 Loss: 3.60075
+Epoch [67/100]	 Training Loss: 3.5590111129304285	 lr: 0.19507
+Epoch [67/100]	 Validation Loss: 3.603843774551	 lr: 0.19507
+Epoch [67/100]	 Time Taken: 1.5468701601028443 minutes
+Epoch [68/100]	
+Step [0/468]	 Loss: 3.55851
+Step [50/468]	 Loss: 3.55824
+Step [100/468]	 Loss: 3.56171
+Step [150/468]	 Loss: 3.55835
+Step [200/468]	 Loss: 3.55903
+Step [250/468]	 Loss: 3.55843
+Step [300/468]	 Loss: 3.55968
+Step [350/468]	 Loss: 3.55827
+Step [400/468]	 Loss: 3.55954
+Step [450/468]	 Loss: 3.55907
+Epoch 00059: adjusting learning rate of group 0 to 1.9491e-01.
+Step [0/78]	 Loss: 3.59569
+Step [50/78]	 Loss: 3.59849
+Epoch [68/100]	 Training Loss: 3.55895135901932	 lr: 0.19491
+Epoch [68/100]	 Validation Loss: 3.601284002646422	 lr: 0.19491
+Epoch [68/100]	 Time Taken: 1.555729075272878 minutes
+Epoch [69/100]	
+Step [0/468]	 Loss: 3.55773
+Step [50/468]	 Loss: 3.55807
+Step [100/468]	 Loss: 3.55951
+Step [150/468]	 Loss: 3.55831
+Step [200/468]	 Loss: 3.55929
+Step [250/468]	 Loss: 3.55847
+Step [300/468]	 Loss: 3.55913
+Step [350/468]	 Loss: 3.55889
+Step [400/468]	 Loss: 3.55894
+Step [450/468]	 Loss: 3.55898
+Epoch 00060: adjusting learning rate of group 0 to 1.9473e-01.
+Step [0/78]	 Loss: 3.59666
+Step [50/78]	 Loss: 3.59965
+Epoch [69/100]	 Training Loss: 3.5589322870613165	 lr: 0.19473
+Epoch [69/100]	 Validation Loss: 3.6022633008467846	 lr: 0.19473
+Epoch [69/100]	 Time Taken: 1.547935712337494 minutes
+Epoch [70/100]	
+Step [0/468]	 Loss: 3.5581
+Step [50/468]	 Loss: 3.55904
+Step [100/468]	 Loss: 3.55896
+Step [150/468]	 Loss: 3.55837
+Step [200/468]	 Loss: 3.56008
+Step [250/468]	 Loss: 3.55787
+Step [300/468]	 Loss: 3.55841
+Step [350/468]	 Loss: 3.55804
+Step [400/468]	 Loss: 3.55957
+Step [450/468]	 Loss: 3.55848
+Epoch 00061: adjusting learning rate of group 0 to 1.9456e-01.
+Step [0/78]	 Loss: 3.59565
+Step [50/78]	 Loss: 3.59825
+Epoch [70/100]	 Training Loss: 3.558715225284935	 lr: 0.19456
+Epoch [70/100]	 Validation Loss: 3.600733322974963	 lr: 0.19456
+Epoch [70/100]	 Time Taken: 1.5539916157722473 minutes
+Epoch [71/100]	
+Step [0/468]	 Loss: 3.55803
+Step [50/468]	 Loss: 3.55974
+Step [100/468]	 Loss: 3.55957
+Step [150/468]	 Loss: 3.55808
+Step [200/468]	 Loss: 3.5593
+Step [250/468]	 Loss: 3.55818
+Step [300/468]	 Loss: 3.55952
+Step [350/468]	 Loss: 3.55893
+Step [400/468]	 Loss: 3.55893
+Step [450/468]	 Loss: 3.55818
+Epoch 00062: adjusting learning rate of group 0 to 1.9438e-01.
+Step [0/78]	 Loss: 3.59828
+Step [50/78]	 Loss: 3.60245
+Epoch [71/100]	 Training Loss: 3.558684911483373	 lr: 0.19438
+Epoch [71/100]	 Validation Loss: 3.6040565142264733	 lr: 0.19438
+Epoch [71/100]	 Time Taken: 1.5601530512173971 minutes
+Epoch [72/100]	
+Step [0/468]	 Loss: 3.55783
+Step [50/468]	 Loss: 3.55849
+Step [100/468]	 Loss: 3.55948
+Step [150/468]	 Loss: 3.55794
+Step [200/468]	 Loss: 3.55896
+Step [250/468]	 Loss: 3.55718
+Step [300/468]	 Loss: 3.55828
+Step [350/468]	 Loss: 3.5579
+Step [400/468]	 Loss: 3.55872
+Step [450/468]	 Loss: 3.55828
+Epoch 00063: adjusting learning rate of group 0 to 1.9420e-01.
+Step [0/78]	 Loss: 3.59562
+Step [50/78]	 Loss: 3.59915
+Epoch [72/100]	 Training Loss: 3.5585711690095754	 lr: 0.1942
+Epoch [72/100]	 Validation Loss: 3.600891746007479	 lr: 0.1942
+Epoch [72/100]	 Time Taken: 1.5542155345280966 minutes
+Epoch [73/100]	
+Step [0/468]	 Loss: 3.55865
+Step [50/468]	 Loss: 3.55772
+Step [100/468]	 Loss: 3.5592
+Step [150/468]	 Loss: 3.56052
+Step [200/468]	 Loss: 3.55881
+Step [250/468]	 Loss: 3.5581
+Step [300/468]	 Loss: 3.55816
+Step [350/468]	 Loss: 3.55865
+Step [400/468]	 Loss: 3.55869
+Step [450/468]	 Loss: 3.5578
+Epoch 00064: adjusting learning rate of group 0 to 1.9402e-01.
+Step [0/78]	 Loss: 3.5967
+Step [50/78]	 Loss: 3.60125
+Epoch [73/100]	 Training Loss: 3.5586459402345185	 lr: 0.19402
+Epoch [73/100]	 Validation Loss: 3.602376097287887	 lr: 0.19402
+Epoch [73/100]	 Time Taken: 1.5549131472905477 minutes
+Epoch [74/100]	
+Step [0/468]	 Loss: 3.55734
+Step [50/468]	 Loss: 3.55812
+Step [100/468]	 Loss: 3.56001
+Step [150/468]	 Loss: 3.5592
+Step [200/468]	 Loss: 3.55939
+Step [250/468]	 Loss: 3.5575
+Step [300/468]	 Loss: 3.55877
+Step [350/468]	 Loss: 3.55796
+Step [400/468]	 Loss: 3.55884
+Step [450/468]	 Loss: 3.55804
+Epoch 00065: adjusting learning rate of group 0 to 1.9383e-01.
+Step [0/78]	 Loss: 3.59708
+Step [50/78]	 Loss: 3.60205
+Epoch [74/100]	 Training Loss: 3.5584814701324854	 lr: 0.19383
+Epoch [74/100]	 Validation Loss: 3.603171088756659	 lr: 0.19383
+Epoch [74/100]	 Time Taken: 1.5615240891774496 minutes
+Epoch [75/100]	
+Step [0/468]	 Loss: 3.56576
+Step [50/468]	 Loss: 3.55776
+Step [100/468]	 Loss: 3.55919
+Step [150/468]	 Loss: 3.55811
+Step [200/468]	 Loss: 3.55907
+Step [250/468]	 Loss: 3.55736
+Step [300/468]	 Loss: 3.55774
+Step [350/468]	 Loss: 3.55836
+Step [400/468]	 Loss: 3.55841
+Step [450/468]	 Loss: 3.55755
+Epoch 00066: adjusting learning rate of group 0 to 1.9364e-01.
+Step [0/78]	 Loss: 3.59651
+Step [50/78]	 Loss: 3.60346
+Epoch [75/100]	 Training Loss: 3.5584040564349575	 lr: 0.19364
+Epoch [75/100]	 Validation Loss: 3.6053201174124694	 lr: 0.19364
+Epoch [75/100]	 Time Taken: 1.5615511099497477 minutes
+Epoch [76/100]	
+Step [0/468]	 Loss: 3.55889
+Step [50/468]	 Loss: 3.55773
+Step [100/468]	 Loss: 3.55858
+Step [150/468]	 Loss: 3.55777
+Step [200/468]	 Loss: 3.55879
+Step [250/468]	 Loss: 3.55758
+Step [300/468]	 Loss: 3.55854
+Step [350/468]	 Loss: 3.55994
+Step [400/468]	 Loss: 3.55869
+Step [450/468]	 Loss: 3.55852
+Epoch 00067: adjusting learning rate of group 0 to 1.9345e-01.
+Step [0/78]	 Loss: 3.59502
+Step [50/78]	 Loss: 3.59786
+Epoch [76/100]	 Training Loss: 3.5583097501697702	 lr: 0.19345
+Epoch [76/100]	 Validation Loss: 3.6005884408950806	 lr: 0.19345
+Epoch [76/100]	 Time Taken: 1.565091037750244 minutes
+Epoch [77/100]	
+Step [0/468]	 Loss: 3.55814
+Step [50/468]	 Loss: 3.55823
+Step [100/468]	 Loss: 3.55865
+Step [150/468]	 Loss: 3.55824
+Step [200/468]	 Loss: 3.55873
+Step [250/468]	 Loss: 3.55741
+Step [300/468]	 Loss: 3.55928
+Step [350/468]	 Loss: 3.55786
+Step [400/468]	 Loss: 3.55815
+Step [450/468]	 Loss: 3.55796
+Epoch 00068: adjusting learning rate of group 0 to 1.9326e-01.
+Step [0/78]	 Loss: 3.59461
+Step [50/78]	 Loss: 3.60109
+Epoch [77/100]	 Training Loss: 3.558266695748028	 lr: 0.19326
+Epoch [77/100]	 Validation Loss: 3.602944661409427	 lr: 0.19326
+Epoch [77/100]	 Time Taken: 1.560903290907542 minutes
+Epoch [78/100]	
+Step [0/468]	 Loss: 3.55748
+Step [50/468]	 Loss: 3.56005
+Step [100/468]	 Loss: 3.55826
+Step [150/468]	 Loss: 3.55864
+Step [200/468]	 Loss: 3.55757
+Step [250/468]	 Loss: 3.55746
+Step [300/468]	 Loss: 3.55867
+Step [350/468]	 Loss: 3.55829
+Step [400/468]	 Loss: 3.5585
+Step [450/468]	 Loss: 3.55835
+Epoch 00069: adjusting learning rate of group 0 to 1.9306e-01.
+Step [0/78]	 Loss: 3.59552
+Step [50/78]	 Loss: 3.60156
+Epoch [78/100]	 Training Loss: 3.558244729653383	 lr: 0.19306
+Epoch [78/100]	 Validation Loss: 3.604322457924867	 lr: 0.19306
+Epoch [78/100]	 Time Taken: 1.5614795247713724 minutes
+Epoch [79/100]	
+Step [0/468]	 Loss: 3.55811
+Step [50/468]	 Loss: 3.55862
+Step [100/468]	 Loss: 3.55869
+Step [150/468]	 Loss: 3.55801
+Step [200/468]	 Loss: 3.55814
+Step [250/468]	 Loss: 3.55768
+Step [300/468]	 Loss: 3.55825
+Step [350/468]	 Loss: 3.55819
+Step [400/468]	 Loss: 3.55896
+Step [450/468]	 Loss: 3.55807
+Epoch 00070: adjusting learning rate of group 0 to 1.9286e-01.
+Step [0/78]	 Loss: 3.59729
+Step [50/78]	 Loss: 3.60074
+Epoch [79/100]	 Training Loss: 3.5580776542679877	 lr: 0.19286
+Epoch [79/100]	 Validation Loss: 3.602467179298401	 lr: 0.19286
+Epoch [79/100]	 Time Taken: 1.559783152739207 minutes
+Epoch [80/100]	
+Step [0/468]	 Loss: 3.55725
+Step [50/468]	 Loss: 3.55727
+Step [100/468]	 Loss: 3.55933
+Step [150/468]	 Loss: 3.55817
+Step [200/468]	 Loss: 3.55821
+Step [250/468]	 Loss: 3.55702
+Step [300/468]	 Loss: 3.55869
+Step [350/468]	 Loss: 3.55784
+Step [400/468]	 Loss: 3.55883
+Step [450/468]	 Loss: 3.55789
+Epoch 00071: adjusting learning rate of group 0 to 1.9266e-01.
+Step [0/78]	 Loss: 3.59719
+Step [50/78]	 Loss: 3.60259
+Epoch [80/100]	 Training Loss: 3.558147598026145	 lr: 0.19266
+Epoch [80/100]	 Validation Loss: 3.603268971809974	 lr: 0.19266
+Epoch [80/100]	 Time Taken: 1.5629160245259603 minutes
+Epoch [81/100]	
+Step [0/468]	 Loss: 3.55763
+Step [50/468]	 Loss: 3.55777
+Step [100/468]	 Loss: 3.55856
+Step [150/468]	 Loss: 3.55783
+Step [200/468]	 Loss: 3.5582
+Step [250/468]	 Loss: 3.55701
+Step [300/468]	 Loss: 3.55875
+Step [350/468]	 Loss: 3.55731
+Step [400/468]	 Loss: 3.56059
+Step [450/468]	 Loss: 3.5578
+Epoch 00072: adjusting learning rate of group 0 to 1.9246e-01.
+Step [0/78]	 Loss: 3.59663
+Step [50/78]	 Loss: 3.59929
+Epoch [81/100]	 Training Loss: 3.5580529341330895	 lr: 0.19246
+Epoch [81/100]	 Validation Loss: 3.601722919023954	 lr: 0.19246
+Epoch [81/100]	 Time Taken: 1.56587100426356 minutes
+Epoch [82/100]	
+Step [0/468]	 Loss: 3.557
+Step [50/468]	 Loss: 3.55845
+Step [100/468]	 Loss: 3.55812
+Step [150/468]	 Loss: 3.5571
+Step [200/468]	 Loss: 3.55946
+Step [250/468]	 Loss: 3.55735
+Step [300/468]	 Loss: 3.55878
+Step [350/468]	 Loss: 3.55702
+Step [400/468]	 Loss: 3.55867
+Step [450/468]	 Loss: 3.55771
+Epoch 00073: adjusting learning rate of group 0 to 1.9225e-01.
+Step [0/78]	 Loss: 3.59547
+Step [50/78]	 Loss: 3.60018
+Epoch [82/100]	 Training Loss: 3.5580471244632688	 lr: 0.19225
+Epoch [82/100]	 Validation Loss: 3.6019755938114266	 lr: 0.19225
+Epoch [82/100]	 Time Taken: 1.5669238090515136 minutes
+Epoch [83/100]	
+Step [0/468]	 Loss: 3.55717
+Step [50/468]	 Loss: 3.56046
+Step [100/468]	 Loss: 3.55845
+Step [150/468]	 Loss: 3.55746
+Step [200/468]	 Loss: 3.5582
+Step [250/468]	 Loss: 3.55782
+Step [300/468]	 Loss: 3.55905
+Step [350/468]	 Loss: 3.55747
+Step [400/468]	 Loss: 3.55792
+Step [450/468]	 Loss: 3.55787
+Epoch 00074: adjusting learning rate of group 0 to 1.9204e-01.
+Step [0/78]	 Loss: 3.5965
+Step [50/78]	 Loss: 3.60158
+Epoch [83/100]	 Training Loss: 3.5578772058853736	 lr: 0.19204
+Epoch [83/100]	 Validation Loss: 3.6029743322959313	 lr: 0.19204
+Epoch [83/100]	 Time Taken: 1.565249236424764 minutes
+Epoch [84/100]	
+Step [0/468]	 Loss: 3.55716
+Step [50/468]	 Loss: 3.55804
+Step [100/468]	 Loss: 3.55844
+Step [150/468]	 Loss: 3.55705
+Step [200/468]	 Loss: 3.55814
+Step [250/468]	 Loss: 3.5576
+Step [300/468]	 Loss: 3.55755
+Step [350/468]	 Loss: 3.55721
+Step [400/468]	 Loss: 3.55842
+Step [450/468]	 Loss: 3.55769
+Epoch 00075: adjusting learning rate of group 0 to 1.9183e-01.
+Step [0/78]	 Loss: 3.59437
+Step [50/78]	 Loss: 3.60162
+Epoch [84/100]	 Training Loss: 3.5577748799935365	 lr: 0.19183
+Epoch [84/100]	 Validation Loss: 3.6030958860348434	 lr: 0.19183
+Epoch [84/100]	 Time Taken: 1.5665968537330628 minutes
+Epoch [85/100]	
+Step [0/468]	 Loss: 3.55801
+Step [50/468]	 Loss: 3.55791
+Step [100/468]	 Loss: 3.55788
+Step [150/468]	 Loss: 3.55786
+Step [200/468]	 Loss: 3.5577
+Step [250/468]	 Loss: 3.55665
+Step [300/468]	 Loss: 3.55846
+Step [350/468]	 Loss: 3.55771
+Step [400/468]	 Loss: 3.55798
+Step [450/468]	 Loss: 3.55729
+Epoch 00076: adjusting learning rate of group 0 to 1.9161e-01.
+Step [0/78]	 Loss: 3.59627
+Step [50/78]	 Loss: 3.601
+Epoch [85/100]	 Training Loss: 3.5577495174530225	 lr: 0.19161
+Epoch [85/100]	 Validation Loss: 3.602062946710831	 lr: 0.19161
+Epoch [85/100]	 Time Taken: 1.5656160195668538 minutes
+Epoch [86/100]	
+Step [0/468]	 Loss: 3.55714
+Step [50/468]	 Loss: 3.55745
+Step [100/468]	 Loss: 3.55874
+Step [150/468]	 Loss: 3.55704
+Step [200/468]	 Loss: 3.55738
+Step [250/468]	 Loss: 3.55703
+Step [300/468]	 Loss: 3.55882
+Step [350/468]	 Loss: 3.55746
+Step [400/468]	 Loss: 3.55801
+Step [450/468]	 Loss: 3.55771
+Epoch 00077: adjusting learning rate of group 0 to 1.9139e-01.
+Step [0/78]	 Loss: 3.59476
+Step [50/78]	 Loss: 3.5999
+Epoch [86/100]	 Training Loss: 3.557714504054469	 lr: 0.19139
+Epoch [86/100]	 Validation Loss: 3.6024736991295447	 lr: 0.19139
+Epoch [86/100]	 Time Taken: 1.5616060654322306 minutes
+Epoch [87/100]	
+Step [0/468]	 Loss: 3.55817
+Step [50/468]	 Loss: 3.55754
+Step [100/468]	 Loss: 3.55848
+Step [150/468]	 Loss: 3.55796
+Step [200/468]	 Loss: 3.55795
+Step [250/468]	 Loss: 3.55649
+Step [300/468]	 Loss: 3.55729
+Step [350/468]	 Loss: 3.55651
+Step [400/468]	 Loss: 3.55846
+Step [450/468]	 Loss: 3.5585
+Epoch 00078: adjusting learning rate of group 0 to 1.9117e-01.
+Step [0/78]	 Loss: 3.5945
+Step [50/78]	 Loss: 3.60201
+Epoch [87/100]	 Training Loss: 3.5576548596732636	 lr: 0.19117
+Epoch [87/100]	 Validation Loss: 3.6041955030881443	 lr: 0.19117
+Epoch [87/100]	 Time Taken: 1.5662296811739604 minutes
+Epoch [88/100]	
+Step [0/468]	 Loss: 3.55754
+Step [50/468]	 Loss: 3.5579
+Step [100/468]	 Loss: 3.55854
+Step [150/468]	 Loss: 3.55748
+Step [200/468]	 Loss: 3.55791
+Step [250/468]	 Loss: 3.55644
+Step [300/468]	 Loss: 3.5581
+Step [350/468]	 Loss: 3.55671
+Step [400/468]	 Loss: 3.55795
+Step [450/468]	 Loss: 3.55811
+Epoch 00079: adjusting learning rate of group 0 to 1.9095e-01.
+Step [0/78]	 Loss: 3.59581
+Step [50/78]	 Loss: 3.60178
+Epoch [88/100]	 Training Loss: 3.557633846743494	 lr: 0.19095
+Epoch [88/100]	 Validation Loss: 3.603203614552816	 lr: 0.19095
+Epoch [88/100]	 Time Taken: 1.5607206106185914 minutes
+Epoch [89/100]	
+Step [0/468]	 Loss: 3.55836
+Step [50/468]	 Loss: 3.55747
+Step [100/468]	 Loss: 3.559
+Step [150/468]	 Loss: 3.55751
+Step [200/468]	 Loss: 3.55774
+Step [250/468]	 Loss: 3.55625
+Step [300/468]	 Loss: 3.55876
+Step [350/468]	 Loss: 3.5568
+Step [400/468]	 Loss: 3.55812
+Step [450/468]	 Loss: 3.55813
+Epoch 00080: adjusting learning rate of group 0 to 1.9072e-01.
+Step [0/78]	 Loss: 3.5971
+Step [50/78]	 Loss: 3.59936
+Epoch [89/100]	 Training Loss: 3.5576439464194145	 lr: 0.19072
+Epoch [89/100]	 Validation Loss: 3.6023228015655127	 lr: 0.19072
+Epoch [89/100]	 Time Taken: 1.5613719860712687 minutes
+Epoch [90/100]	
+Step [0/468]	 Loss: 3.558
+Step [50/468]	 Loss: 3.55714
+Step [100/468]	 Loss: 3.55959
+Step [150/468]	 Loss: 3.55748
+Step [200/468]	 Loss: 3.55812
+Step [250/468]	 Loss: 3.55706
+Step [300/468]	 Loss: 3.55738
+Step [350/468]	 Loss: 3.55672
+Step [400/468]	 Loss: 3.55814
+Step [450/468]	 Loss: 3.55693
+Epoch 00081: adjusting learning rate of group 0 to 1.9049e-01.
+Step [0/78]	 Loss: 3.59582
+Step [50/78]	 Loss: 3.60292
+Epoch [90/100]	 Training Loss: 3.5575556418834586	 lr: 0.19049
+Epoch [90/100]	 Validation Loss: 3.6039922604194055	 lr: 0.19049
+Epoch [90/100]	 Time Taken: 1.5628774603207907 minutes
+Epoch [91/100]	
+Step [0/468]	 Loss: 3.55724
+Step [50/468]	 Loss: 3.55798
+Step [100/468]	 Loss: 3.55863
+Step [150/468]	 Loss: 3.55734
+Step [200/468]	 Loss: 3.55716
+Step [250/468]	 Loss: 3.55631
+Step [300/468]	 Loss: 3.55862
+Step [350/468]	 Loss: 3.55726
+Step [400/468]	 Loss: 3.55749
+Step [450/468]	 Loss: 3.55715
+Epoch 00082: adjusting learning rate of group 0 to 1.9026e-01.
+Step [0/78]	 Loss: 3.59701
+Step [50/78]	 Loss: 3.60198
+Epoch [91/100]	 Training Loss: 3.557453688902733	 lr: 0.19026
+Epoch [91/100]	 Validation Loss: 3.603723767476204	 lr: 0.19026
+Epoch [91/100]	 Time Taken: 1.5610234022140503 minutes
+Epoch [92/100]	
+Step [0/468]	 Loss: 3.55748
+Step [50/468]	 Loss: 3.55726
+Step [100/468]	 Loss: 3.55866
+Step [150/468]	 Loss: 3.55735
+Step [200/468]	 Loss: 3.55745
+Step [250/468]	 Loss: 3.55607
+Step [300/468]	 Loss: 3.55753
+Step [350/468]	 Loss: 3.55674
+Step [400/468]	 Loss: 3.55792
+Step [450/468]	 Loss: 3.55785
+Epoch 00083: adjusting learning rate of group 0 to 1.9003e-01.
+Step [0/78]	 Loss: 3.59508
+Step [50/78]	 Loss: 3.60224
+Epoch [92/100]	 Training Loss: 3.557461022821247	 lr: 0.19003
+Epoch [92/100]	 Validation Loss: 3.603629463758224	 lr: 0.19003
+Epoch [92/100]	 Time Taken: 1.5579700112342834 minutes
+Epoch [93/100]	
+Step [0/468]	 Loss: 3.55698
+Step [50/468]	 Loss: 3.55668
+Step [100/468]	 Loss: 3.5582
+Step [150/468]	 Loss: 3.55725
+Step [200/468]	 Loss: 3.55737
+Step [250/468]	 Loss: 3.55613
+Step [300/468]	 Loss: 3.55792
+Step [350/468]	 Loss: 3.55671
+Step [400/468]	 Loss: 3.55806
+Step [450/468]	 Loss: 3.55684
+Epoch 00084: adjusting learning rate of group 0 to 1.8979e-01.
+Step [0/78]	 Loss: 3.59665
+Step [50/78]	 Loss: 3.60497
+Epoch [93/100]	 Training Loss: 3.557426323238601	 lr: 0.18979
+Epoch [93/100]	 Validation Loss: 3.604494748971401	 lr: 0.18979
+Epoch [93/100]	 Time Taken: 1.5596536596616108 minutes
+Epoch [94/100]	
+Step [0/468]	 Loss: 3.55702
+Step [50/468]	 Loss: 3.5569
+Step [100/468]	 Loss: 3.55914
+Step [150/468]	 Loss: 3.55745
+Step [200/468]	 Loss: 3.5579
+Step [250/468]	 Loss: 3.55638
+Step [300/468]	 Loss: 3.55809
+Step [350/468]	 Loss: 3.55725
+Step [400/468]	 Loss: 3.55769
+Step [450/468]	 Loss: 3.55754
+Epoch 00085: adjusting learning rate of group 0 to 1.8956e-01.
+Step [0/78]	 Loss: 3.59549
+Step [50/78]	 Loss: 3.60382
+Epoch [94/100]	 Training Loss: 3.557338764015426	 lr: 0.18956
+Epoch [94/100]	 Validation Loss: 3.6040697128344803	 lr: 0.18956
+Epoch [94/100]	 Time Taken: 1.5664307395617167 minutes
+Epoch [95/100]	
+Step [0/468]	 Loss: 3.55846
+Step [50/468]	 Loss: 3.55675
+Step [100/468]	 Loss: 3.55823
+Step [150/468]	 Loss: 3.55716
+Step [200/468]	 Loss: 3.55749
+Step [250/468]	 Loss: 3.55619
+Step [300/468]	 Loss: 3.55757
+Step [350/468]	 Loss: 3.55683
+Step [400/468]	 Loss: 3.55763
+Step [450/468]	 Loss: 3.55683
+Epoch 00086: adjusting learning rate of group 0 to 1.8931e-01.
+Step [0/78]	 Loss: 3.59566
+Step [50/78]	 Loss: 3.6006
+Epoch [95/100]	 Training Loss: 3.5572562630359945	 lr: 0.18931
+Epoch [95/100]	 Validation Loss: 3.602315890483367	 lr: 0.18931
+Epoch [95/100]	 Time Taken: 1.5675771991411844 minutes
+Epoch [96/100]	
+Step [0/468]	 Loss: 3.55736
+Step [50/468]	 Loss: 3.55688
+Step [100/468]	 Loss: 3.55875
+Step [150/468]	 Loss: 3.55734
+Step [200/468]	 Loss: 3.55695
+Step [250/468]	 Loss: 3.55624
+Step [300/468]	 Loss: 3.55814
+Step [350/468]	 Loss: 3.55713
+Step [400/468]	 Loss: 3.55737
+Step [450/468]	 Loss: 3.55718
+Epoch 00087: adjusting learning rate of group 0 to 1.8907e-01.
+Step [0/78]	 Loss: 3.59505
+Step [50/78]	 Loss: 3.59993
+Epoch [96/100]	 Training Loss: 3.5571742607997012	 lr: 0.18907
+Epoch [96/100]	 Validation Loss: 3.602334725551116	 lr: 0.18907
+Epoch [96/100]	 Time Taken: 1.566909674803416 minutes
+Epoch [97/100]	
+Step [0/468]	 Loss: 3.55685
+Step [50/468]	 Loss: 3.5567
+Step [100/468]	 Loss: 3.55849
+Step [150/468]	 Loss: 3.55684
+Step [200/468]	 Loss: 3.55735
+Step [250/468]	 Loss: 3.55565
+Step [300/468]	 Loss: 3.55713
+Step [350/468]	 Loss: 3.55684
+Step [400/468]	 Loss: 3.55808
+Step [450/468]	 Loss: 3.55681
+Epoch 00088: adjusting learning rate of group 0 to 1.8882e-01.
+Step [0/78]	 Loss: 3.59744
+Step [50/78]	 Loss: 3.60157
+Epoch [97/100]	 Training Loss: 3.557182429183243	 lr: 0.18882
+Epoch [97/100]	 Validation Loss: 3.6027232775321374	 lr: 0.18882
+Epoch [97/100]	 Time Taken: 1.5661845684051514 minutes
+Epoch [98/100]	
+Step [0/468]	 Loss: 3.5567
+Step [50/468]	 Loss: 3.55656
+Step [100/468]	 Loss: 3.55781
+Step [150/468]	 Loss: 3.55663
+Step [200/468]	 Loss: 3.55725
+Step [250/468]	 Loss: 3.55571
+Step [300/468]	 Loss: 3.55777
+Step [350/468]	 Loss: 3.55624
+Step [400/468]	 Loss: 3.55773
+Step [450/468]	 Loss: 3.5574
+Epoch 00089: adjusting learning rate of group 0 to 1.8858e-01.
+Step [0/78]	 Loss: 3.59804
+Step [50/78]	 Loss: 3.60194
+Epoch [98/100]	 Training Loss: 3.5571888654659958	 lr: 0.18858
+Epoch [98/100]	 Validation Loss: 3.6036484638849893	 lr: 0.18858
+Epoch [98/100]	 Time Taken: 1.5561021844546 minutes
+Epoch [99/100]	
+Step [0/468]	 Loss: 3.55783
+Step [50/468]	 Loss: 3.55704
+Step [100/468]	 Loss: 3.55793
+Step [150/468]	 Loss: 3.55698
+Step [200/468]	 Loss: 3.55769
+Step [250/468]	 Loss: 3.55627
+Step [300/468]	 Loss: 3.55729
+Step [350/468]	 Loss: 3.55677
+Step [400/468]	 Loss: 3.55742
+Step [450/468]	 Loss: 3.5568
+Epoch 00090: adjusting learning rate of group 0 to 1.8832e-01.
+Step [0/78]	 Loss: 3.59883
+Step [50/78]	 Loss: 3.60209
+Epoch [99/100]	 Training Loss: 3.557106749114827	 lr: 0.18832
+Epoch [99/100]	 Validation Loss: 3.603384730143425	 lr: 0.18832
+Epoch [99/100]	 Time Taken: 1.564322829246521 minutes

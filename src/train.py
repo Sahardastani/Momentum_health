@@ -77,8 +77,12 @@ def run_training(cfg: DictConfig) -> None:
         lr = optimizer.param_groups[0]["lr"]
 
         if nr == 0 and (epoch+1) % 50 == 0:
-            save_model(cfg, model, optimizer, mainscheduler, current_epoch,
-                       "SimCLR_FMNIST_RN50_P128_LR0P2_LWup10_Cos500_T0p5_B128_checkpoint_{}_260621.pt")
+            save_model(cfg=config, 
+                       model=model, 
+                       optimizer=optimizer, 
+                       scheduler=mainscheduler, 
+                       current_epoch=current_epoch,
+                       name="SimCLR_FMNIST_RN50_P128_LR0P2_LWup10_Cos500_T0p5_B128_checkpoint_{}_260621.pt")
 
         model.eval()
         with torch.no_grad():
